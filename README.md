@@ -1,7 +1,7 @@
 # Stroke-Predection-
 Stroke prediction using healthcare data
 
-INTRODUCTION:
+Introduction:
 
 This report analyzes healthcare data that predicts whether a patient has had a stroke based on some features such as age, BMI, work type, gender, etc. The data pre-processing techniques have been applied to this dataset, and exploratory data analysis has been conducted to gain insights into the features and the relationships among them.
 
