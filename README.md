@@ -5,7 +5,7 @@ INTRODUCTION:
 
 This report analyzes healthcare data that predicts whether a patient has had a stroke based on some features such as age, BMI, work type, gender, etc. The data pre-processing techniques have been applied to this dataset, and exploratory data analysis has been conducted to gain insights into the features and the relationships among them.
 
-DATA PRE-PROCESSING:
+Data Pre-Processing:
 
 The first step of this analysis is data pre-processing, which is a crucial step in any machine learning model. The dataset contains 5110 records and 12 features. The data types of features are int64, float64, and object. There are no missing values for all the features except for BMI. The BMI feature has 201 missing values, and the missing values have been filled with the mean value of the column. The 'id' column has been dropped from the dataset because it does not contribute to the analysis.
 
