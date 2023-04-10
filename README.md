@@ -1,4 +1,4 @@
-# Stroke-Predection-
+# Stroke-Predection
 Stroke prediction using healthcare data
 
 Introduction:
